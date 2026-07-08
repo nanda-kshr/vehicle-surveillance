@@ -10,6 +10,8 @@ data/processed/
 
 models/*.pt
 *.egg-info
+*.mp4
+output/
 
 # Virtual environments
 .venv
